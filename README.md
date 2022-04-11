@@ -7,3 +7,13 @@
 - Variables
 - Output (printf)
 - Comment
+
+
+## Lecture 2
+
+- Data types in C
+- Input
+- Arithmetic Operators
+- Assignment Operators
+- Type Conversion
+- Practice- Circle Area and Perimeter
