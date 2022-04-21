@@ -8,7 +8,6 @@
 - Output (printf)
 - Comment
 
-
 ## Lecture 2
 
 - Data types in C
@@ -17,3 +16,18 @@
 - Assignment Operators
 - Type Conversion
 - Practice- Circle Area and Perimeter
+
+## Lecture 3
+
+- Conditional Statement
+- Nested Condition
+- Logical Operator
+- Relational Operator
+
+## Lecture 4
+
+- Loops
+- For Loop
+- Nested For Loop
+- Combining Loop and Condition
+
