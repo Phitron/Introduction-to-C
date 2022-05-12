@@ -31,3 +31,23 @@
 - Nested For Loop
 - Combining Loop and Condition
 
+## Lecture 5
+
+- While Loop
+- Do while Loop
+- Break
+- Continue
+
+## Lecture 6
+
+- Array
+- Array size
+- Array initialization
+- Uses of Array
+
+## Lecture 7
+
+- String
+- String IO
+- Length of string
+- String functions
