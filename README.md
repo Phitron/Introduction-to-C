@@ -51,3 +51,21 @@
 - String IO
 - Length of string
 - String functions
+
+## Lecture 8
+
+- Functions
+- Uses of Functions
+- Declaring Fucntions
+- Functions without Parameter
+- Functions with Parameter
+- Function scope
+- Functions and Array
+
+## Lecture 9
+
+- Pointers
+- Pointer Arithmetics
+- Pointers and Constants
+- Using Pointers to Pass by Address in Function
+- Null Pointers
